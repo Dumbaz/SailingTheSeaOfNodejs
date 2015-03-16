@@ -1,0 +1,11 @@
+{
+  "name": "npmtest",
+  "version": "0.0.0",
+  "dependencies": {
+    "sass-bootstrap": "~2.3.2",
+    "requirejs": "~2.1.9",
+    "modernizr": "~2.6.2",
+    "jquery": "~2.0.0"
+  },
+  "devDependencies": {}
+}
